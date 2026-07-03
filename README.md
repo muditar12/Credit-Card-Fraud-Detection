@@ -4,7 +4,7 @@
 
 This project builds and evaluates machine learning models for detecting fraudulent credit card transactions. It includes data preprocessing, exploratory data analysis (EDA), class imbalance handling using SMOTE, model training, evaluation, and prediction.
 
-The project uses the **Credit Card Fraud Detection** dataset from **Kaggle**.
+The project uses the **Credit Card Fraud Detection** dataset from **Kaggle** (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ---
 
